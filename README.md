@@ -22,7 +22,7 @@ Welcome to the OOP Eepow Chat Bot project! This educational chat bot is designed
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/qdvo2503/chat-bot-eepow.git
+   git clone https://github.com/qdvo2503/chat-bot-eepow-OOP.git
    cd chat-bot-eepow
    
 2. **Install Dependencies:**
